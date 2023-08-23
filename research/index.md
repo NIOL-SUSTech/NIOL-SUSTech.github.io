@@ -25,7 +25,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
-# <i class="fas fa-microscope"></i>Research
 
 Our research is centered around the exciting domain of network intelligence and optimization.
 
